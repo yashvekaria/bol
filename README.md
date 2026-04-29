@@ -1,4 +1,4 @@
-# bol
+# Bol
 
 **Press a key. Speak. Your words appear.**
 
