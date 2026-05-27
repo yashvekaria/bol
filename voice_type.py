@@ -27,7 +27,7 @@ from pystray import MenuItem as Item
 # --- Config -----------------------------------------------------------------
 SAMPLE_RATE = 16000
 CHANNELS = 1
-INPUT_DEVICE = 7               # 4 = Sennheiser headset; change if your mic differs
+INPUT_DEVICE = 6               # 6 = system default (resamples to 16kHz); 3 = Sennheiser headset
 OUTPUT_PATH = Path("/tmp/voice-type.wav")
 HOTKEYS = ["<f12>", "<pause>"]
 
